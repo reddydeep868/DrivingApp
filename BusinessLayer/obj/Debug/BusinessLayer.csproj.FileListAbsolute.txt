@@ -1,0 +1,8 @@
+C:\Users\webuser\documents\visual studio 2012\Projects\MvcApplicationWP\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\webuser\documents\visual studio 2012\Projects\MvcApplicationWP\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\webuser\documents\visual studio 2012\Projects\MvcApplicationWP\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\webuser\documents\visual studio 2012\Projects\MvcApplicationWP\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\webuser\documents\visual studio 2012\Projects\MvcApplicationWP\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\webuser\documents\visual studio 2012\Projects\MvcApplicationWP\BusinessLayer\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\webuser\documents\visual studio 2012\Projects\MvcApplicationWP\BusinessLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\webuser\documents\visual studio 2012\Projects\MvcApplicationWP\BusinessLayer\bin\Debug\MySql.Fabric.Plugin.dll
